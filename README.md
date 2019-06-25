@@ -1,4 +1,4 @@
-# BiochemistryProject_Fortran
+# MISU Biogeochemistry Project (MISU_BGC)
 These are all the Fortran codes used to compute the fluxes and transports:
 
 - *carbon_accu.f90* : computes the accumulation of carbon per latitude
